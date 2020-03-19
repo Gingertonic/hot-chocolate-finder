@@ -1,3 +1,3 @@
-class HotChocolate
+class HotChocolateFinder::HotChocolate
   
 end

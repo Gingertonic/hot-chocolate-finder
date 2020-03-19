@@ -1,4 +1,6 @@
-require "hot_chocolate_finder/version"
+require_relative "./hot_chocolate_finder/version"
+require_relative "./hot_chocolate_finder/interface"
+
 require "pry"
 require "colorize"
 
