@@ -5,4 +5,8 @@ class HotChocolateFinder::Interface
     puts "Daa da"
     puts "HOT CHOCOLATE TIME"
   end 
+
+  def farewell 
+    puts "Byeeeeeeeeeeeeee"
+  end 
 end
